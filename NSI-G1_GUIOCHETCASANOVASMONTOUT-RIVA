@@ -277,7 +277,9 @@ def draw():
 
 run()
 
+import winsound
 
+winsound.PlaySound('PacMan Original Theme',0)
 
 
 
