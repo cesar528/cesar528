@@ -179,7 +179,7 @@ def draw():
 
 
 
-#milo:pac man mange le bonus (18/11/24)(rajout d'un oeil)
+#milo:pac man mange le bonus (18/11/24)(ajout d'un oeil)
 
 from p5 import*#on importe la bibliothèque p5 pour dessiner
 
