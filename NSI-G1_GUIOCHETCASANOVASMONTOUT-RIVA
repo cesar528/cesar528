@@ -276,3 +276,10 @@ def draw():
     ellipse(300, 200, 15, 15) # reflet blanc (droite)
 
 run()
+
+
+
+
+
+
+Cahier des charges : https://docs.google.com/document/d/1i9LG6ZqnwM0kYjqDIsOMiZhlxt4DNvU27owRtRmga_o/edit?usp=sharing
