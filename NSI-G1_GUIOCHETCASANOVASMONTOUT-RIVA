@@ -278,12 +278,9 @@ def draw():
 run()
 
 
-Mathéo 1/12/24
-import winsound
 
-winsound.PlaySound('PacMan Original Theme',0)
 
-#César :amélioration du fond
+#César :amélioration du fond + cahier des charge 28/11/24
 
 def draw_rectangles():
   
@@ -324,6 +321,10 @@ Cahier des charges : https://docs.google.com/document/d/1i9LG6ZqnwM0kYjqDIsOMiZh
 
 
 
+Mathéo 1/12/24
+import winsound
+
+winsound.PlaySound('PacMan Original Theme',0)
 
 
 
@@ -385,7 +386,11 @@ Cahier des charges : https://docs.google.com/document/d/1i9LG6ZqnwM0kYjqDIsOMiZh
 
 
 
-#MILO ASSEMBLAGE DES PROGRAMMES:
+
+
+
+
+#MILO ASSEMBLAGE DES PROGRAMMES 28/11/24 mais placé la pour que ce soit facile
 
 from p5 import*#on importe la bibliothèque p5 pour dessiner
 
