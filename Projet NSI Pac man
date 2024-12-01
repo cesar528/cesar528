@@ -65,7 +65,13 @@ def draw():
 
 run()
 
-Mathéo: Fantôme animé
+
+
+
+
+
+
+#Mathéo: Fantôme animé
 
 from p5 import *
 
@@ -117,7 +123,13 @@ def draw():
 run()
 
 
-César 16 novembre : Changement de direction de pack man + couleur+ taille 
+
+
+
+
+
+
+#César 16 novembre : Changement de direction de pack man + couleur+ taille 
 
 
 
@@ -158,6 +170,12 @@ def draw():
     ellipse(pacmanX-23,260,25,25)#blanc de l'oeil
     fill(200,0,0)#rouge
     ellipse(pacmanX-23,260,10,10)#iris de l'oeil
+
+
+
+
+
+
 
 
 
@@ -221,7 +239,13 @@ def draw():
 
 run()
 
-matteo 25/11
+
+
+
+
+
+
+#matteo 25/11
 from p5 import *
 # Dimensions de l'écran
 screen_width = 1200
