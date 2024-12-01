@@ -283,6 +283,39 @@ import winsound
 
 winsound.PlaySound('PacMan Original Theme',0)
 
+#César :amélioration du fond
+
+def draw_rectangles():
+  
+    noStroke() 
+    stroke_weight(4) 
+
+    
+    fill(100, 100, 255)  # Couleur bleue
+
+    # Rectangle supérieur
+    rect(0, -15, width, 100)  
+    # Rectangle inférieur
+    rect(0, height - 150, width, 500)  
+    fill(255)
+    ellipse(40,50,100,50)#nuage 1
+    ellipse(40,40,70,70)
+    ellipse(100,60,100,50)#2
+    ellipse(100,50,70,70)
+    ellipse(400,50,100,50)#3
+    ellipse(400,40,70,70)
+    ellipse(700,60,100,50)#4
+    ellipse(700,50,70,70)
+    ellipse(300,510,100,50)#5
+    ellipse(300,500,70,70)
+    ellipse(660,550,100,50)#6
+    ellipse(660,540,70,70)
+    ellipse(450,610,100,50)#7
+    ellipse(450,600,70,70)
+    ellipse(100,550,100,50)#8
+    ellipse(100,540,70,70)
+
+
 
 
 
